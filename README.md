@@ -17,8 +17,8 @@
 <h2>Netflix Clone Project</h2>
 Welcome to the Netflix Clone project! This project is a web application that replicates some of the features and functionalities of the popular streaming service, Netflix. It serves as a demonstration of web development skills and technologies.
 <h3> Screenshots</h3>
-![image](https://github.com/Shivani917999/Netflix_Clone/assets/157983164/fc847bce-ca8f-4d3f-98e4-3bc4b2a5fb52)
 
+![image](https://github.com/Shivani917999/Netflix_Clone/assets/157983164/fc847bce-ca8f-4d3f-98e4-3bc4b2a5fb52)
 ![image](https://github.com/Shivani917999/Netflix_Clone/assets/157983164/7dcd925f-4831-4476-8227-51d3f4b5a2a5)
 ![image](https://github.com/Shivani917999/Netflix_Clone/assets/157983164/be0514bc-ea02-4de3-97fa-82a3d24d6b0d)
 
@@ -99,7 +99,8 @@ Welcome to the Netflix Clone project! This project is a web application that rep
 <li>Make your changes and test thoroughly.</li>
 <li>Create a pull request with a detailed description of your changes.</li>
 <ol>
+
   
-<p> </b>Happy streaming! 🍿📺</b><p/>
+# <p> </b>Happy streaming! 🍿📺</b></p>
 
 
